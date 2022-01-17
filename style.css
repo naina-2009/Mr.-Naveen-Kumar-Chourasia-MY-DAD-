@@ -1,0 +1,114 @@
+html
+{
+    scroll-behavior: smooth;
+}
+    
+body
+{
+    text-align: center;
+}
+
+#menu
+{
+    font-family: Comfortaa;
+    font-size: 20px;
+    background: white;
+    width: 100%;
+    height: 30px;
+    position: fixed;
+    z-index: 10;
+    top: 0px;
+    margin-top: 2px;
+}
+
+.links
+{
+    display: inline;
+}
+
+#welcome
+{
+    padding: 100px;
+    background: linear-gradient(#C70039 0%, #FF5733 60%, #FFC300 100%);
+    width: 75%;
+    font-family: Copperplate Gothic; 
+}
+
+#name
+{
+    font-family: Merriweather;
+    font-size: 40px;
+}
+
+section
+{
+    padding: 40px;
+}
+
+.profile
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 40%;
+}
+
+h1
+{
+    font-family: Footlight MT;
+    font-size: 40px;
+}
+
+.line
+{
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p
+{
+    font-family: Montserrat;
+    font-size: 18px;
+}
+
+h3
+{
+    font-family: Vujahday Script;
+    font-size: 25px;
+}
+
+#bio
+{
+    background-color: #1F8D9C;
+    margin: white;
+    margin-top: 10px;
+    width: 75%;
+}
+
+#writings
+{
+    background-color: #057861;
+    margin: white;
+    margin-top: 10px;
+    width: 75%;
+}
+
+#contact
+{
+    background-color: #A92015;
+    margin: white;
+    margin-top: 10px;
+    width: 75%;
+}
+
+i
+{
+    color: black;
+}
+
+h2
+{
+    font-family: Comfortaa;
+    color: black;
+}
